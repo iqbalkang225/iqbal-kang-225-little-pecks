@@ -1,0 +1,13 @@
+.btn{
+    outline: none;
+    color: var(--color-white);
+    border: none;
+    display: inline-block;
+    width: 14rem;
+    padding: 1.4rem 0;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.6rem;
+    transition: all 0.2s linear
+}
